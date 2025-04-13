@@ -21,3 +21,11 @@ O esquema lógico deste banco de dados abrange:
   * Utilizar múltiplas peças
   * Ter múltiplos pagamentos
 - Cada veículo possui um histórico de manutenções
+
+## Queries SQL implementadas
+- Recuperações Simples (SELECT)
+- Filtros com WHERE
+- Expressões para gerar atributos derivados
+- Ordenações dos dados com ORDER BY
+- Filtros em Grupos (HAVING)
+- Junções Complexas
